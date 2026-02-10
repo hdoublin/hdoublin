@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joizel Morojo 👋</h1>
+<h1 align="center">Hi, I'm Hiro Doublin👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Passionate+about+Web%2C+Mobile%2C+and+Desktop+Apps;Delivering+High-Quality+Results;Always+Eager+to+Learn+New+Technologies" />
@@ -61,4 +61,4 @@ I specialize in building new projects from scratch and maintaining existing appl
 ---
 
 ## 💬 Let's Connect
-<p align="center"> <a href="mailto:onepushsing@gmail.com" title="Send me an email"> <img src="https://img.shields.io/badge/Contact Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a> <a href="https://github.com/joizelmorojo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://teams.live.com/l/invite/FAAkNiRYubfxbhXFAE" title="Message me"> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> </a> <a href="https://discord.gg/YOUR_DISCORD_LINK" title="Discord ID: bedragon1111"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
+<p align="center"> <a href="mailto:onepushsing@gmail.com" title="Send me an email"> <img src="https://img.shields.io/badge/Contact Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a> <a href="https://github.com/joizelmorojo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://teams.live.com/l/invite/FAAkNiRYubfxbhXFAE" title="Message me"> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> </a> <a href="https://discord.gg/YOUR_DISCORD_LINK" title="Discord ID: hdoublin"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
